@@ -1,4 +1,4 @@
-Product: WSO2 ESB Connector for Facebook + Integration Tests
+Product: WSO2 ESB Connector for Facebook + Integration Testssss
     Pre-requisites:
 
     - Maven 3.x
